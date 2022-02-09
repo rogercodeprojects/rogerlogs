@@ -4,6 +4,6 @@ import(
 	"fmt"
 )
 
-func succesLog(message string){
+func Succeslog(message string){
 	fmt.Println(message)
 }
