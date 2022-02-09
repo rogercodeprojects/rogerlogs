@@ -2,6 +2,7 @@ package colors
 
 type Color string
 
+
 const (
 	Blue         Color = "\033[34m"
 	Green        Color = "\033[32m"
